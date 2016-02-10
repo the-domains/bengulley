@@ -1,7 +1,7 @@
 name: BenGulley
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.25302
+layout_spectrum: 0.11788574373349547
+typography_spectrum: 0.9200394307263196
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000000'
-    - '#796f6e'
-    - '#682514'
-    - '#c7ac9f'
-    - '#fddcbe'
-  brandStrength: 0.5
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.7170484564267099
+  lightness: 0.7470088873524219
+  saturation: 0.021627867594361305
+  rhythmicContrast: 0.3016885742545128
 purpose: []
