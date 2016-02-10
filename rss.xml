@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[BenGulley]]></title>
         <description><![CDATA[BenGulley]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bengulley/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Feb 2016 21:06:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 10 Feb 2016 21:07:10 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bengulley/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[This is my Title]]></title>
-            <description><![CDATA[<article><h1>This is my Title</h1><p>Hola!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7a3c5b79-1141-4ef6-b6bd-6219572ce037.jpg"></article>]]></description>
-            <link>undefined82ff3199-ff0f-4bf7-994c-e3acc476a893/index.html</link>
+            <description><![CDATA[<article><h1>This is my Title</h1><p>Hola!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/28cc2b2cbb624ee795352d38bcd44cc55aeb0a5d.jpg"></article>]]></description>
+            <link>https://thegrid.ai/bengulley/82ff3199-ff0f-4bf7-994c-e3acc476a893/index.html</link>
             <guid isPermaLink="false">82ff3199-ff0f-4bf7-994c-e3acc476a893</guid>
-            <pubDate>Wed, 10 Feb 2016 21:05:57 GMT</pubDate>
+            <pubDate>Wed, 10 Feb 2016 21:07:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
